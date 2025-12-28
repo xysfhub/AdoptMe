@@ -1,5 +1,5 @@
 local function script()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/mm2scripthub/TravHub/refs/heads/main/mainscript'))()
+    loadstring(game:HttpGet("https://pastefy.app/mhqY3kZn/raw"))()
 end
 
 local function loadui()
